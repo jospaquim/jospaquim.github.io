@@ -1,4 +1,4 @@
-## Jose Luis Paquiyauri's data science and ML portfolio project
+## Matt Chapman's data science and ML portfolio project
 
 Based on a Minimal Jekyll theme for GitHub Pages [1].
 

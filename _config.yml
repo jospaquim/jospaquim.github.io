@@ -1,22 +1,15 @@
-title: Jose Luis Paquiyauri # your name (or website title) here
-logo: "/images/linkedin.png?raw=true" # your photo (or logo) here
+title: Matt Chapman # your name (or website title) here
+logo: "/images/linkedin.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-# Analista de datos con experiencia en desData Scientist with 4+ years of commercial experience in analytics, strategy and sales and a master's degree in Data Science from Oxford University. Previously at Vodafone, VIMA Group (management consulting), Ovo Energy, HSBC.
-# <br><br>
-#  Ranked in top 10% of undergraduate cohort at Cambridge University.
-# <br><br>
-  <a href="https://www.linkedin.com/in/jospaquim/">View my LinkedIn Profile</a> 
+  Data Scientist with 4+ years of commercial experience in analytics, strategy and sales and a master's degree in Data Science from Oxford University. Previously at Vodafone, VIMA Group (management consulting), Ovo Energy, HSBC.
+  <br><br>
+  Ranked in top 10% of undergraduate cohort at Cambridge University.
+  <br><br>
+  <a href="https://www.linkedin.com/in/matt-chapman-ba8488118/">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-#menu: 
-#    {% if site.show_downloads %}
-#      <ul class="downloads">
-#        <li><a href="{{ /Projects }}"><strong>Projects</strong></a></li>
-#        <li><a href="{{ site.github.tar_url }}">Publications</strong></a></li>
-#        <li><a href="{{ site.github.repository_url }}">Linkedin</strong></a></li>
-#      </ul>
-#    {% endif %}
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
 colors:
   crimson: '#900C3F'
