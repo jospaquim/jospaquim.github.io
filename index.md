@@ -2,24 +2,30 @@
 
 Hello! My name is Jose Luis, and I set up this page to showcase some of the data science projects I've been working on.
 
-At age 18, while working as a cold caller in a telesales team at Ovo Energy, I built my first data product: a recommendation engine which predicted customers' propensity to buy. The tool helped me double my sales rate and, after I'd persuaded senior managers to take it into production, boosted our whole team's sales by 10%. 
+<!-- At age 18, while working as a cold caller in a telesales team at Ovo Energy, I built my first data product: a recommendation engine which predicted customers' propensity to buy. The tool helped me double my sales rate and, after I'd persuaded senior managers to take it into production, boosted our whole team's sales by 10%. 
 
 The reason I tell this story is because I think it shows what data can and should be: a tool for empowering people and uplifting businesses. 
 
-In the past 8 years, I've studied at two of the world's best universities and worked in a variety of industries, gaining experience in machine learning, strategy, analytics and marketing. My [CV](https://jospaquim.github.io/pdf/Jose_Paquiyauri_CV.pdf) has plenty of information about the professional projects I've worked on, but the purpose of this page is to showcase some of my favourite personal (on-the-side) projects in a more visual way. 
+In the past 8 years, I've studied at two of the world's best universities and worked in a variety of industries, gaining experience in machine learning, strategy, analytics and marketing. My [CV](https://jospaquim.github.io/pdf/Jose_Paquiyauri_CV.pdf) has plenty of information about the professional projects I've worked on, but the purpose of this page is to showcase some of my favourite personal (on-the-side) projects in a more visual way. -->
 
 If you have any questions, feel free to drop me an [email](mailto:joshephpm1@gmail.com) or send me a message on [LinkedIn](https://www.linkedin.com/in/jospaquim/). 
 
 Thanks for reading,
 
-Matt
+Jose Luis
 
 ---
 ## Selected projects in data science, machine learning and NLP
 
 ---
 
+Under construction...
+
+<!--  
 ### Deep NLP for hate speech detection
+
+
+
 
 Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
 
@@ -87,27 +93,18 @@ In many tasks, failing to account for the hierarchical relations and autocorrela
 
 <!-- <img src="images/random_intercept.png?raw=true"/> -->
 
+<!-- 
 [![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
 View code on Github
 
 ---
-
+-->
 ## Skills-based projects
 A selection of smaller projects demonstrating specific data science and ML skills.
 
 - [Working in the cloud: Using data stored in AWS S3 buckets](#)
 - [Optimising code with multiprocessing](#)
-
-
-
-
-
-
-
-
-
-
 
 
 
