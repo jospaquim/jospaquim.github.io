@@ -106,7 +106,7 @@ View code on Colab -->
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
 
-<!-- ## 👋 Welcome to my portfolio
+ ## 👋 Welcome to my portfolio
 
 Hello! My name is Matt, and I set up this page to showcase some of the data science projects I've been working on.
 
@@ -123,7 +123,7 @@ Thanks for reading,
 Matt
 
 ---
- -->
+
  
 <!--  ### Using BERT and Naïve Bayes models for helpfulness prediction of Amazon reviews
 The quality and helpfulness of online reviews can vary greatly, meaning readers must often sift through a deluge of online reviews in order to find the most relevant ones. In this project, I compared the performance of various ML models for predicting the helpfulness of an Amazon review given its text and metadata.  
