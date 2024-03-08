@@ -1,3 +1,20 @@
+############## Experience config ################
+#################################################
+[[experience]]
+title = "Data Engineer"
+timeline = "August 2023 — Present"
+description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+
+[[experience]]
+title = "Art director"
+timeline = "2013 — 2015"
+description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+
+[[experience]]
+title = "Creative director"
+timeline = "2015 — Present"
+description = "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
+
 ############## Education config #################
 #################################################
 [[education]]
@@ -14,24 +31,6 @@ description = "Ratione voluptatem sequi nesciunt, facere quisquams facere menda 
 title = "University school of the arts"
 timeline = "2007 — 2008"
 description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
-
-
-############## Experience config ################
-#################################################
-[[experience]]
-title = "Web designer"
-timeline = "2010 — 2013"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
-
-[[experience]]
-title = "Art director"
-timeline = "2013 — 2015"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
-
-[[experience]]
-title = "Creative director"
-timeline = "2015 — Present"
-description = "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
 
 
 ############## Skills config ####################
