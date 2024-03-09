@@ -34,14 +34,14 @@ description = "Creation of USIL SpinOut at the San Ignacio de Loyola University.
 ############## Education config #################
 #################################################
 [[education]]
-title = "Soy Henry"
+title = "Data Science | Data Engineering"
 timeline = "May 2023 — September 2023"
-description = "Data Science"
+description = "Soy Henry"
 
 [[education]]
-title = "Universidad San Ignacio de Loyola"
+title = "Bcs. Ingeniería Informática y de sistemas"
 timeline = "2017 — 2022"
-description = "Bcs. Ingeniería Informática y de sistemas"
+description = "Universidad San Ignacio de Loyola"
 
 
 ############## Skills config ####################
