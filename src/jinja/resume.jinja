@@ -17,7 +17,7 @@
 
     <ol class="timeline-list">
 
-      {% for experience in resume.experience | reverse %}
+      {% for experience in resume.experience %}
 
       <li class="timeline-item">
 
@@ -25,13 +25,15 @@
 
         <span>{{experience.timeline}}</span>
 
-      <p class="timeline-text">
-        <ol>
-          {% for line in experience.description.split('\n') %}
-            <li>{{ line }}</li>
-          {% endfor %}
-        </ol> 
-      </p>
+
+        <p class="timeline-text">
+          <ol>
+            {% for line in {{experience.description}}.split(' ') %}
+              <li>{{ line }}</li>
+            {% endfor %} 
+          </ol>
+        </p>
+
 
       </li>
 
