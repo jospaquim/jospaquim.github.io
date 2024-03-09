@@ -15,9 +15,22 @@ timeline = "August 2022 — April 2023"
 description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
 
 [[experience]]
-title = "Creative director"
-timeline = "2015 — Present"
-description = "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
+title = "Funcional Analyst"
+company="Condesi Perú SAC"
+timeline = "January 2021 — December 2021"
+description = "Requirements gathering and documentation for new projects.
+ERP system administration and support.
+Monitoring and continuous improvement of enterprise systems.
+Management of system implementations and changes."
+
+[[experience]]
+title = "Frontend Developer"
+company="Condesi Perú SAC"
+timeline = "March 2020 — December 2020"
+description = "Requirements gathering and documentation for new projects.
+ERP system administration and support.
+Monitoring and continuous improvement of enterprise systems.
+Management of system implementations and changes."
 
 ############## Education config #################
 #################################################
