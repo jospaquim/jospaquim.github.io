@@ -1,7 +1,7 @@
 [[doing]]
 title = "Web Scraping"
 icon = "./config/assets/icons/laptop-code.svg"
-text = "Extraction of structured data from websites at scale using Python libraries like Beautiful Soup and Scrapy."
+text = "Extraction of structured data from websites at scale using Python libraries like Beautiful Soup, Scrapy and Playwright."
 
 [[doing]]
 title = "Scripting"
@@ -11,7 +11,7 @@ text = "Automation and task scripting using Python to enhance efficiency and pro
 [[doing]]
 title = "Optical Character Recognition (OCR)"
 icon = "./config/assets/icons/scanner.svg"
-text = "Extracting structured text from scanned documents using Python OCR libraries like Tesseract, OpenCV."
+text = "Extracting structured text from scanned photos using Python OCR libraries like PaddleOCR."
 
 [[doing]]
 title = "Data Pipelines with Airflow"
