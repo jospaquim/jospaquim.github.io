@@ -28,7 +28,7 @@
 
         <p class="timeline-text">
           <ol>
-            description_lines = experience.description.split(' ')
+            {% description_lines = experience.description.split(' ')%}
             {% for line in description_lines %}
               <li>{{ line }}</li>
             {% endfor %} 
