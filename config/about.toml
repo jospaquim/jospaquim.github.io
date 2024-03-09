@@ -8,7 +8,14 @@ avatar = "./config/assets/avatars/avatar-1.png"
 username = "jospaquim" # <-- github user name
 googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d199666.5651251294!2d-121.58334177520186!3d38.56165006739519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ac672b28397f9%3A0x921f6aaa74197fdb!2sSacramento%2C%20CA%2C%20USA!5e0!3m2!1sen!2sbd!4v1647608789441!5m2!1sen!2sbd" 
 presentation = """
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm a Data Engineer based in Lima, Perú. I enjoy working with data to gain insights, solve problems and help organizations make data-driven decisions.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My role involves managing large datasets, building data pipelines and workflows, and ensuring data quality. I have expertise in database modeling, ETL processes, data visualization, and reporting.
+Some of my key responsibilities include collecting and integrating data from various sources, transforming and cleaning data, building data lakes and warehouses, and developing APIs and tools for extracting insights. I also ensure data governance, security and scalability
+
+I believe data has the power to transform businesses. My aim is to build sustainable data systems and workflows that unlock value from data through analysis and turn raw numbers into actionable intelligence.
+
+When not working with data, I enjoy learning new technologies and staying up-to-date with emerging trends in Big Data and AI. I would love to discuss how I can help your organization optimize processes and drive results through data-driven decision making.
+
+
 """
