@@ -2,12 +2,16 @@
 #################################################
 [[experience]]
 title = "Data Engineer"
+company = "Trabajo en Digital"
 timeline = "August 2023 — Present"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+description = " Development and maintenance of ETL processes using tools like Python.
+Integration and preparation of data from multiple sources following quality standards.
+Data cleaning and transformation."
 
 [[experience]]
-title = "Art director"
-timeline = "2013 — 2015"
+title = "Innovation and Entrepreneurship Consultant"
+company="Club de Emprendedores USIL"
+timeline = "August 2022 — April 2023"
 description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
 
 [[experience]]

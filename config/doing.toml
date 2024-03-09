@@ -2,35 +2,28 @@
 title = "Web Scraping"
 icon = "./config/assets/icons/laptop-code.svg"
 text = "Extraction of structured data from websites at scale using Python libraries like Beautiful Soup, Scrapy and Playwright."
-iconColor = "#E5B66E"
 
 [[doing]]
 title = "Scripting"
 icon = "./config/assets/icons/code.svg"
 text = "Automation and task scripting using Python to enhance efficiency and productivity."
-iconColor = "#E5B66E"
-
 
 [[doing]]
 title = "Optical Character Recognition (OCR)"
 icon = "./config/assets/icons/scanner.svg"
 text = "Extracting structured text from scanned photos using Python OCR libraries like PaddleOCR."
-iconColor = "#E5B66E"
 
 [[doing]]
 title = "Data Pipelines with Airflow"
 icon = "./config/assets/icons/pipeline.svg"
 text = "Developing and scheduling ETL workflows with Apache Airflow for automated data ingestion and processing."
-iconColor = "#E5B66E"
 
 [[doing]]
 title = "Web Development"
 icon = "./config/assets/icons/laptop-code.svg"
 text = "High-quality development of sites at the professional level."
-iconColor = "#E5B66E"
 
 [[doing]]
 title = "Data Analytics Projects"
 icon = "./config/assets/icons/chart-line.svg"
 text = "Leveraging scraped and pipeline data for analytics use cases like market research, price tracking, and trend analysis."
-iconColor = "#E5B66E"
