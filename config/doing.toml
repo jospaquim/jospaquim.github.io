@@ -1,7 +1,7 @@
 [[doing]]
-title = "Mobile Apps"
-icon = "./config/assets/icons/mobile.svg"
-text = "Professional development of applications for iOS and Android."
+title = "Web Scraping"
+icon = "./config/assets/icons/laptop-code.svg"
+text = "Extraction of structured data from websites at scale using Python libraries like Beautiful Soup and Scrapy."
 
 [[doing]]
 title = "Scripting"
@@ -9,11 +9,21 @@ icon = "./config/assets/icons/code.svg"
 text = "Automation and task scripting using Python to enhance efficiency and productivity."
 
 [[doing]]
-title = "UI/UX Designing"
-icon = "./config/assets/icons/compass.svg"
-text = "Intuitive and visually appealing user interfaces and user experiences."
+title = "Optical Character Recognition (OCR)"
+icon = "./config/assets/icons/scanner.svg"
+text = "Extracting structured text from scanned documents using Python OCR libraries like Tesseract, OpenCV."
+
+[[doing]]
+title = "Data Pipelines with Airflow"
+icon = "./config/assets/icons/pipeline.svg"
+text = "Developing and scheduling ETL workflows with Apache Airflow for automated data ingestion and processing."
 
 [[doing]]
 title = "Web Development"
 icon = "./config/assets/icons/laptop-code.svg"
 text = "High-quality development of sites at the professional level."
+
+[[doing]]
+title = "Data Analytics Projects"
+icon = "./config/assets/icons/chart-line.svg"
+text = "Leveraging scraped and pipeline data for analytics use cases like market research, price tracking, and trend analysis."
