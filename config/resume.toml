@@ -4,9 +4,7 @@
 title = "Data Engineer"
 company = "Trabajo en Digital"
 timeline = "August 2023 — Present"
-description = " Development and maintenance of ETL processes using tools like Python.
-Integration and preparation of data from multiple sources following quality standards.
-Data cleaning and transformation."
+description = " Development and maintenance of ETL processes using tools like Python. Integration and preparation of data from multiple sources following quality standards. Data cleaning and transformation."
 
 [[experience]]
 title = "Innovation and Entrepreneurship Consultant"
@@ -18,36 +16,32 @@ description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum dele
 title = "Funcional Analyst"
 company="Condesi Perú SAC"
 timeline = "January 2021 — December 2021"
-description = "Requirements gathering and documentation for new projects.
-ERP system administration and support.
-Monitoring and continuous improvement of enterprise systems.
-Management of system implementations and changes."
+description = "Requirements gathering and documentation for new projects. ERP system administration and support. Monitoring and continuous improvement of enterprise systems. Management of system implementations and changes."
 
 [[experience]]
 title = "Frontend Developer"
 company="Condesi Perú SAC"
 timeline = "March 2020 — December 2020"
-description = "Requirements gathering and documentation for new projects.
-ERP system administration and support.
-Monitoring and continuous improvement of enterprise systems.
-Management of system implementations and changes."
+description = "Requirements gathering and documentation for new projects. ERP system administration and support. Monitoring and continuous improvement of enterprise systems. Management of system implementations and changes."
+
+[[experience]]
+title = "Co-Founder & Coordinator"
+company="SpinOut USIL"
+timeline = "February 2020 — December 2020"
+description = "Creation of USIL SpinOut at the San Ignacio de Loyola University. Representation of the community in front of external and internal institutions of the university. Organization and leadership of SOclass. Generation of synergies among community members. Creation of alliances with different organizations of the university and international organizations."
+
 
 ############## Education config #################
 #################################################
 [[education]]
-title = "High school of art and design"
-timeline = "2002 — 2004"
-description = "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+title = "Soy Henry"
+timeline = "May 2023 — September 2023"
+description = "Data Science"
 
 [[education]]
-title = "New york academy of art"
-timeline = "2006 — 2007"
-description = "Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis.."
-
-[[education]]
-title = "University school of the arts"
-timeline = "2007 — 2008"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "Universidad San Ignacio de Loyola"
+timeline = "2017 — 2022"
+description = "Bcs. Ingeniería Informática y de sistemas"
 
 
 ############## Skills config ####################
@@ -63,12 +57,12 @@ title = "Web design"
 value = "80%"
 
 [[skill]]
-title = "Graphic design"
+title = "Web Scraping"
 value = "70%"
 
 [[skill]]
-title = "Branding"
-value = "90%"
+title = "Automation"
+value = "60%"
 
 [[skill]]
 title = "WordPress"
@@ -79,13 +73,10 @@ value = "50%"
 [languages]
 title = "Languages"
 enabled = true
-show_bar = true
-show_value = true
+show_bar = false
+show_value = false
 
 [[language]]
-title = "Ingles"
-value = "60%"
+title = "English"
+value = "B2"
 
-[[language]]
-title = "French"
-value = "50%"
