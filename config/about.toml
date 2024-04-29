@@ -1,12 +1,12 @@
-name = "Jose Paquiyauri"
+name = "Jose Luis"
 rol = "Data Engineer"
-email = "jose.paquiyauri@usil.pe"
-phone = "+51 918 094 929"
+#email = "jose.paquiyauri@usil.pe"
+#phone = "+51 918 094 929"
 #birthday = "June 26, 1996"
 location = "Lima, Perú"
 avatar = "./config/assets/avatars/avatar-1.png"
 username = "jospaquim" # <-- github user name
-googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d199666.5651251294!2d-121.58334177520186!3d38.56165006739519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ac672b28397f9%3A0x921f6aaa74197fdb!2sSacramento%2C%20CA%2C%20USA!5e0!3m2!1sen!2sbd!4v1647608789441!5m2!1sen!2sbd" 
+googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3901.6440456927353!2d-76.95424868509462!3d-12.076036991457829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c8d3e5a83d4f%3A0x56b9d940e57b73b6!2sLa%20Molina%2015026%2C%20Peru!5e0!3m2!1sen!2s!4v1682792056797!5m2!1sen!2s" 
 presentation = """
 I'm a Data Engineer based in Lima, Perú. I enjoy working with data to gain insights, solve problems and help organizations make data-driven decisions. I believe data has the power to transform businesses. My aim is to build sustainable data systems and workflows that unlock value from data through analysis and turn raw numbers into actionable intelligence.
 
