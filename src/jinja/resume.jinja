@@ -137,60 +137,60 @@
 
 
 
-<section class="language">
-    <h3 class="h3 skills-title">{{ languages.title }}</h3>
+  <section class="language">
+      <h3 class="h3 skills-title">{{ languages.title }}</h3>
 
-    <h4>Básico</h4>
-    <ul class="skills-list content-card">
-        {% for lang in languages.language %}
-            {% if lang.value == "A1" or lang.value == "A2" %}
-                <li class="skills-item">
-                    <div class="title-wrapper">
-                        <h5 class="h5">{{ lang.title }}</h5>
-                        {% if lang.description %}
-                            <p>{{ lang.description }}</p>
-                        {% endif %}
-                        <span class="level">{{ lang.value }}</span>
-                    </div>
-                </li>
-            {% endif %}
-        {% endfor %}
-    </ul>
+      <h4>Básico</h4>
+      <ul class="skills-list content-card">
+          {% for lang in languages.language %}
+              {% if lang.value == "A1" or lang.value == "A2" %}
+                  <li class="skills-item">
+                      <div class="title-wrapper">
+                          <h5 class="h5">{{ lang.title }}</h5>
+                          {% if lang.description %}
+                              <p>{{ lang.description }}</p>
+                          {% endif %}
+                          <span class="level">{{ lang.value }}</span>
+                      </div>
+                  </li>
+              {% endif %}
+          {% endfor %}
+      </ul>
 
-    <h4>Intermedio</h4>
-    <ul class="skills-list content-card">
-        {% for lang in languages.language %}
-            {% if lang.value == "B1" or lang.value == "B2" %}
-                <li class="skills-item">
-                    <div class="title-wrapper">
-                        <h5 class="h5">{{ lang.title }}</h5>
-                        {% if lang.description %}
-                            <p>{{ lang.description }}</p>
-                        {% endif %}
-                        <span class="level">{{ lang.value }}</span>
-                    </div>
-                </li>
-            {% endif %}
-        {% endfor %}
-    </ul>
+      <h4>Intermedio</h4>
+      <ul class="skills-list content-card">
+          {% for lang in languages.language %}
+              {% if lang.value == "B1" or lang.value == "B2" %}
+                  <li class="skills-item">
+                      <div class="title-wrapper">
+                          <h5 class="h5">{{ lang.title }}</h5>
+                          {% if lang.description %}
+                              <p>{{ lang.description }}</p>
+                          {% endif %}
+                          <span class="level">{{ lang.value }}</span>
+                      </div>
+                  </li>
+              {% endif %}
+          {% endfor %}
+      </ul>
 
-    <h4>Avanzado</h4>
-    <ul class="skills-list content-card">
-        {% for lang in languages.language %}
-            {% if lang.value == "C1" or lang.value == "C2" %}
-                <li class="skills-item">
-                    <div class="title-wrapper">
-                        <h5 class="h5">{{ lang.title }}</h5>
-                        {% if lang.description %}
-                            <p>{{ lang.description }}</p>
-                        {% endif %}
-                        <span class="level">{{ lang.value }}</span>
-                    </div>
-                </li>
-            {% endif %}
-        {% endfor %}
-    </ul>
-</section>
+      <h4>Avanzado</h4>
+      <ul class="skills-list content-card">
+          {% for lang in languages.language %}
+              {% if lang.value == "C1" or lang.value == "C2" %}
+                  <li class="skills-item">
+                      <div class="title-wrapper">
+                          <h5 class="h5">{{ lang.title }}</h5>
+                          {% if lang.description %}
+                              <p>{{ lang.description }}</p>
+                          {% endif %}
+                          <span class="level">{{ lang.value }}</span>
+                      </div>
+                  </li>
+              {% endif %}
+          {% endfor %}
+      </ul>
+  </section>
 
 
 
