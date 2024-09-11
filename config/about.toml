@@ -1,14 +1,14 @@
 name = "Jose Luis"
-rol = "Data Engineer"
+rol = "Software engineer"
 #email = "jose.paquiyauri@usil.pe"
 #phone = "+51 918 094 929"
 #birthday = "June 26, 1996"
-location = "Lima, Perú"
+#location = "Lima, Perú"
 avatar = "./config/assets/avatars/avatar-1.png"
 username = "jospaquim" # <-- github user name
 googlemaps = "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d124840.83984332727!2d-76.9342969647461!3d-12.093231365922511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2spe!4v1714410509087!5m2!1ses-419!2spe" 
 presentation = """
-I'm a Data Engineer based in Lima, Perú. I enjoy working with data to gain insights, solve problems and help organizations make data-driven decisions. I believe data has the power to transform businesses. My aim is to build sustainable data systems and workflows that unlock value from data through analysis and turn raw numbers into actionable intelligence.
+I'm a Data Engineer. I enjoy working with data to gain insights, solve problems, and help organizations make data-driven decisions. I believe data has the power to transform businesses. My aim is to build sustainable data systems and workflows that unlock value from data through analysis and turn raw numbers into actionable intelligence.
 
 When not working with data, I enjoy learning new technologies and staying up-to-date with emerging trends in Big Data and AI. I would love to discuss how I can help your organization optimize processes and drive results through data-driven decision making.
 

@@ -1,28 +1,52 @@
 ############## Experience config ################
 #################################################
 [[experience]]
+title = "Analyst Developer"
+company = "Trabajo en Digital"
+timeline = "July 2024 — Present"
+description = " Development and maintenance of ETL processes using tools like Python. Integration and preparation of data from multiple sources following quality standards. Data cleaning and transformation."
+
+
+[[experience]]
 title = "Data Engineer"
 company = "Trabajo en Digital"
-timeline = "August 2023 — Present"
+timeline = "August 2023 — June 2024"
 description = " Development and maintenance of ETL processes using tools like Python. Integration and preparation of data from multiple sources following quality standards. Data cleaning and transformation."
 
 [[experience]]
-title = "Innovation and Entrepreneurship Consultant"
-company="Club de Emprendedores USIL"
-timeline = "August 2022 — April 2023"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "Information Technology Support"
+company = "Municipalidad de Paracas"
+timeline = "March 2023 — May 2023"
+description = " Development and maintenance of ETL processes using tools like Python. Integration and preparation of data from multiple sources following quality standards. Data cleaning and transformation."
+
 
 [[experience]]
-title = "Funcional Analyst"
+title = "Junior Data Analyst - Intership"
+company="Gabriel Car SAC"
+timeline = "January 2022 — December 2022"
+description = "Requirements gathering and documentation for new projects. ERP system administration and support. Monitoring and continuous improvement of enterprise systems. Management of system implementations and changes."
+
+
+[[experience]]
+title = "Junior Functional Analyst - Intership"
 company="Condesi Perú SAC"
 timeline = "January 2021 — December 2021"
 description = "Requirements gathering and documentation for new projects. ERP system administration and support. Monitoring and continuous improvement of enterprise systems. Management of system implementations and changes."
 
 [[experience]]
-title = "Frontend Developer"
+title = "Junior Frontend Developer - Internships"
 company="Condesi Perú SAC"
 timeline = "March 2020 — December 2020"
 description = "Requirements gathering and documentation for new projects. ERP system administration and support. Monitoring and continuous improvement of enterprise systems. Management of system implementations and changes."
+
+
+############## Volunteering #################
+#################################################
+[[experience]]
+title = "Innovation and Entrepreneurship Consultant"
+company="Club de Emprendedores USIL"
+timeline = "August 2022 — April 2023"
+description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
 
 [[experience]]
 title = "Co-Founder & Coordinator"
