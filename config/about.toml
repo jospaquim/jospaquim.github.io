@@ -8,8 +8,19 @@ avatar = "./config/assets/avatars/avatar-1.png"
 username = "jospaquim" # <-- github user name
 googlemaps = "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d124840.83984332727!2d-76.9342969647461!3d-12.093231365922511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2spe!4v1714410509087!5m2!1ses-419!2spe" 
 presentation = """
-I'm a Data Engineer. I enjoy working with data to gain insights, solve problems, and help organizations make data-driven decisions. I believe data has the power to transform businesses. My aim is to build sustainable data systems and workflows that unlock value from data through analysis and turn raw numbers into actionable intelligence.
+I'm a Software Engineer. I enjoy developing software solutions to tackle complex problems and drive innovation.
 
-When not working with data, I enjoy learning new technologies and staying up-to-date with emerging trends in Big Data and AI. I would love to discuss how I can help your organization optimize processes and drive results through data-driven decision making.
+I believe in the power of technology to transform businesses and improve people's lives. 
+
+My aim is to build robust, scalable, and efficient systems that deliver value through elegant code and cutting-edge technologies. 
+
+I strive to write clean, maintainable code that adheres to industry best practices and standards. Collaborating with cross-functional teams to understand requirements and translate them into high-quality software is a crucial part of my role. 
+
+I'm passionate about continuous learning and staying up-to-date with the latest trends and advancements in the software engineering field. 
+
+When not working on software projects, I enjoy diving into exciting areas like artificial intelligence, data engineering, data analytics, DevOps, containerization, and cloud computing. I'm fascinated by the potential of AI to drive automation and extract valuable insights from data. Moreover, I'm keen on mastering data engineering tools and architectures to build reliable and scalable data pipelines. Techniques like data mining, machine learning, and data visualization allow me to uncover hidden patterns and trends. Embracing DevOps practices and containerization with Docker and Kubernetes enables faster and more efficient software delivery. Exploring cloud computing platforms is also a passion of mine.
+
+I would love to discuss how I can help your organization optimize processes and drive results through innovative software solutions and data-driven decision making.
 
 """
+
